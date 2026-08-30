@@ -1,16 +1,16 @@
 # Exploratory Data Analysis on Diwali Sales Dataset
 
-## 📌 Project Overview
+##  Project Overview
 This project performs an Exploratory Data Analysis (EDA) on a Diwali Sales dataset to understand consumer purchasing behavior, product performance, and regional sales trends. The analysis involves data cleaning, preprocessing, statistical exploration, and visualization using Python. Multiple visualizations were created to identify important customer segments, popular product categories, high-performing regions, and purchasing patterns during the Diwali festive season.
 
 ---
 
-## 🎯 Objective
+##  Objective
 The objective of this project is to conduct a detailed Exploratory Data Analysis (EDA) on the Diwali Sales dataset to gain meaningful insights into consumer buying behavior, product performance, and regional sales patterns.
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 - **Python**
 - **Jupyter Notebook**
 - **Pandas** – Data manipulation and data cleaning
@@ -20,7 +20,7 @@ The objective of this project is to conduct a detailed Exploratory Data Analysis
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The project uses the **Diwali Sales Dataset**, which contains customer and transaction-related information collected during the Diwali shopping season.
 
 The dataset contains information related to factors such as:
@@ -37,7 +37,7 @@ The dataset contains information related to factors such as:
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
 ```text
 Dataset
@@ -61,7 +61,7 @@ Export Cleaned Dataset
 
 ---
 
-## 🧹 Data Cleaning & Preprocessing
+##  Data Cleaning & Preprocessing
 The following data preparation steps were performed:
 - Imported the dataset using Pandas.
 - Handled character encoding issues while loading the dataset using `unicode_escape`.
@@ -75,7 +75,7 @@ The following data preparation steps were performed:
 
 ---
 
-## 📊 Exploratory Data Analysis
+##  Exploratory Data Analysis
 A total of 10 visualizations were created to analyze different aspects of the Diwali sales data.
 
 **1. Gender-wise Purchase**
@@ -120,7 +120,7 @@ Compared product category purchases across genders.
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 The major findings from the analysis are:
 - Female customers are the dominant contributors to overall sales.
 - Customers aged 26–35 represent the highest-spending age group.
@@ -135,7 +135,7 @@ The major findings from the analysis are:
 
 ---
 
-## ⚠️ Challenges Faced & Solutions
+##  Challenges Faced & Solutions
 
 **1. Encoding Error While Loading the Dataset**
 The dataset initially caused a UTF-8 decoding error.
@@ -157,7 +157,7 @@ Some product category names overlapped in the visualizations because of the larg
 
 ---
 
-## 📁 Project Files
+##  Project Files
 ```
 EDA-on-Diwali-Sales-Dataset/
 │
@@ -170,7 +170,7 @@ EDA-on-Diwali-Sales-Dataset/
 
 ---
 
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Clone the repository
    ```bash
@@ -193,11 +193,11 @@ EDA-on-Diwali-Sales-Dataset/
 
 ---
 
-## 📌 Project Outcome
+##  Project Outcome
 The project demonstrates how Exploratory Data Analysis can be used to transform raw sales data into meaningful business insights. The analysis highlights important customer segments, high-performing locations, popular product categories, and spending patterns that can help businesses make more informed decisions during festive sales campaigns.
 
 ---
 
-## 👤 Author
+##  Author
 **Om Hunagund**
 GitHub: [github.com/omhunagund](https://github.com/omhunagund)
